@@ -1,2 +1,3 @@
-# deploy-strategies
-Blue-Green and Canary deployment example apps with Kustomize
+# Blue-Green Deploy Strategy
+
+Blue-Green deployment `example-app` with Kustomize
