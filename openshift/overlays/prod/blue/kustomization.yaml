@@ -1,0 +1,12 @@
+# Key concept 1
+nameSuffix: -blue
+
+bases:
+  - ../../../base
+
+patchesStrategicMerge:
+  - deployment-patch.yaml
+
+# Key concept 2
+commonLabels:
+  app: example-app-blue
